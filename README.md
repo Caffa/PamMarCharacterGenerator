@@ -12,22 +12,25 @@ Making a Character Generator for Marcus
 - Fisher
 - Butcher
 - Cook
+- Bard
+- Lower Guard
 - Guard
+- Elite Guard
 - Criminal
 
 # Stats
 - Strength (1 - 10)
-- Vitality
-- Dexterity
-- Endurance
-- Intelligence
-- Wisdom
-- Charisma
-- Agilty
+- Vitality (1 - 10)
+- Dexterity (1 - 10)
+- Endurance (1 - 10)
+- Intelligence (1 - 10)
+- Wisdom (1 - 10)
+- Charisma (1 - 10)
+- Agilty (1 - 10)
 
 # Background
 - Assets ("Poor", "Rich", "Adequate")
-- Class ("Lower class", "Middle class", "Upper class")
+- Class ("Lower class", "Middle class", "Upper class", "Noble")
 - Family ("Extended", "Normal", "None")
 
 # Personality Traits
@@ -39,3 +42,4 @@ Making a Character Generator for Marcus
 - Greedy
 - Paranoid
 - Opportunistic
+- Charming
