@@ -4,17 +4,38 @@ Making a Character Generator for Marcus
 
 
 - Name ("Tom", "Harry")
+
+# Occuptation
+
+- Farmer
+- Merchant
+- Fisher
+- Butcher
+- Cook
+- Guard
+- Criminal
+
 # Stats
 - Strength (1 - 10)
-- Viatality
+- Vitality
 - Dexterity
 - Endurance
-- Intelligene
+- Intelligence
 - Wisdom
 - Charisma
 - Agilty
 
 # Background
-- Assets ("Poor as a peasant", "Rich", "Adequate")
+- Assets ("Poor", "Rich", "Adequate")
+- Class ("Lower class", "Middle class", "Upper class")
+- Family ("Extended", "Normal", "None")
 
-
+# Personality Traits
+- Adventurous
+- Artisitc
+- Considerate
+- Unfriendly
+- Aggressive
+- Greedy
+- Paranoid
+- Opportunistic
